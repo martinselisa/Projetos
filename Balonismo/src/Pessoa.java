@@ -1,9 +1,7 @@
 public class Pessoa {
-    String nome;
-     int cpf;
-     int rg;
-     int telefone;
-     String contrato;
-
-
+    static String nome;
+     static String cpf;
+     static int rg;
+     static int telefone;
+     static String contrato;
 }
